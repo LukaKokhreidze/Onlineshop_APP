@@ -1,0 +1,14 @@
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\bin\Debug\OnlShop_App.exe.config
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\bin\Debug\OnlShop_App.exe
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\bin\Debug\OnlShop_App.pdb
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.csproj.AssemblyReference.cache
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.csproj.SuggestedBindingRedirects.cache
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.Form1.resources
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.Properties.Resources.resources
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.Register.resources
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.csproj.GenerateResource.cache
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.csproj.CoreCompileInputs.cache
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.exe
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.pdb
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.BuyProduct.resources
+D:\ARCHIV\archiv2\uni\step\OnlShop_App\OnlShop_App\obj\Debug\OnlShop_App.Order.resources
